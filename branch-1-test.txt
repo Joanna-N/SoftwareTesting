@@ -1,1 +1,2 @@
 Exemplary text line.
+EDIT: branch 1
